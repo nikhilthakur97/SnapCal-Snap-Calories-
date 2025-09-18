@@ -4,7 +4,9 @@
       "Bash(npm install)",
       "Bash(timeout 10 npm start)",
       "Bash(npm run web:*)",
-      "Bash(git add:*)"
+      "Bash(git add:*)",
+      "Bash(git pull:*)",
+      "Bash(git commit:*)"
     ],
     "deny": [],
     "ask": []
